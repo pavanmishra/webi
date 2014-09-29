@@ -1,4 +1,4 @@
 webi
 ====
 
-Python interface for the web
+Python interface for the web(server/application).
